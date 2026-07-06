@@ -1,0 +1,6 @@
+{
+  "name": "Chamunda Cycle Sales",
+  "description": "Premium bicycle showcase, sizing calculator, and customizer powered by Chamunda Cycle Sales in Ahmedabad, Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
